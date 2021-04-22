@@ -27,4 +27,4 @@ variable = input("dime tu nombre: ")
 print("Dices que tu nombre es : " + variable)
 print(f"Dices que tu nombre es : {variable}")
 
-mensaje = "Mundo"
+
